@@ -1,0 +1,9 @@
+LOAD DATA
+INFILE 'participa.txt'
+INTO TABLE PARTICIPA
+FIELDS TERMINATED BY ';'
+TRAILING NULLCOLS(
+ IdPelicula,
+ IdActor,
+ Tipo
+)

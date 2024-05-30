@@ -1,0 +1,100 @@
+80d3925ab;bc8069cbc;Protagonista
+36c8cada4;4e58acfaa;Secundario
+080a7dc3e;c80aa819e;Antagonista
+2cc8e56a7;d268ce7c7;Secundario
+87d6567b8;5dc0cfef1;Villano
+225bd7208;b9c907a56;Héroe
+926edf6a2;c96af5b9c;Secundario
+c5cdb8408;76a4cfebe;Anti-Héroe
+e45d9d967;f469c4b41;Secundario
+a07f27b0a;37b5e82f0;Protagonista
+5c3799513;7055b62f1;Secundario
+39b01d4b4;ab3d34ded;Secundario
+4d4dfb4a6;e9332f97a;Protagonista
+53d5a4a4b;71ff8a2da;Secundario
+f74e2b934;09721c36b;Protagonista
+ec897b879;5ce7eb72e;Secundario
+154a7f2e7;8acc9c530;Protagonista
+b5fbf5032;4fb212559;Antagonista
+f6d4431b6;d500c5505;Secundario
+2c3003f49;56abac2ee;Secundario
+260ee3ac8;b49be4a06;Secundario
+c07da4748;4394749b0;Anti-Héroe
+9fa056b9c;85d2b4c95;Secundario
+8aa2f12e3;3626cf2cb;Secundario
+b6fdb540c;7931cfff4;Protagonista
+825373f6a;72d317533;Héroe
+3f4cc09fd;1903a2c9b;Secundario
+f6fd62a0e;47639a093;Secundario
+c249d724a;1ae7e6b0b;Secundario
+3a2d7d58b;51d5cc09c;Secundario
+6b5c28081;8ad6c3c53;Secundario
+b87917a4b;9eb47519a;Protagonista
+a40e20a7e;212f35f21;Secundario
+fa7abde20;c62aa13cf;Secundario
+1ff058a8f;3ff74ec5c;Protagonista
+9268fa464;dd59f4a45;Secundario
+ffcdba070;2629c131a;Secundario
+ea4fe5d78;26851c948;Secundario
+3f7246f32;d3d8e7e55;Protagonista
+d03cba123;2941800ae;Secundario
+8cbc1cbcc;8cdf64af8;Héroe
+9fdbcc56d;5436d729a;Secundario
+dc920fc35;fed9b5065;Secundario
+1acb0e851;a780bae58;De Reparto
+8908286e8;05f541e31;Secundario
+2b954253c;18be23050;Secundario
+fb27c6e01;6117bd8e2;Secundario
+198a445fd;144bd537d;De Reparto
+f2674ae34;f2e20b0cb;Secundario
+3de5e880f;d6e0090bc;Héroe
+a9bab15c9;759bc827a;Secundario
+d97229a2f;c8530895e;De Reparto
+46d8e2c25;f2d1869ff;Secundario
+981c373b1;428c59fce;Protagonista
+890b89358;db47d6efb;Secundario
+170fd85d2;72c8d8b92;Protagonista
+daf11a2df;3739ab057;Secundario
+5085a28d1;2219e9fb0;Secundario
+6ffa15664;7099f9541;De Reparto
+a688f4f26;485853224;Secundario
+885f8e21c;aef6364c0;Protagonista
+7f02e6229;df1e0508d;Secundario
+e106fd09e;2c95b74b3;Secundario
+cc4d53b30;6c1fb8449;Secundario
+baf479994;d9b587d71;Protagonista
+6f7fdb7b0;6b010bfe0;Secundario
+74894d236;b88111e8f;De Reparto
+6d3b58cad;9179a29a5;Secundario
+4a131ab54;a48377aac;Secundario
+fc26735ce;4a81ac7c7;Anti-Héroe
+10cad83aa;01db85127;Secundario
+4f2a56da2;2a3a87c6a;De Reparto
+fefeafe73;55f97d163;Secundario
+ab6a0357e;89ccc2e91;Protagonista
+c80393751;2437b18bd;Secundario
+ed8c792a8;20fbd5793;Secundario
+111041141;c791eaa55;Protagonista
+80ee5e6a8;0523ed831;Secundario
+0785fd96f;601a154f8;Secundario
+578f49263;8f592fd9f;Secundario
+c08f073bb;4596a8a72;Secundario
+2006d13b5;47eb33dc3;De Reparto
+29ea32f9a;7bceba624;De Reparto
+344f16029;fa94b6cea;De Reparto
+e0080f75b;18da33c96;De Reparto
+b30876557;ee94bdf07;Secundario
+5f1dc81f5;2d04bd39b;Secundario
+163b9c667;7f4b92d11;De Reparto
+3a967f38f;3efe71e31;Secundario
+0eef8718e;e73983544;Secundario
+f34ce5bf1;09721cab7;Protagonista
+9020fbc79;10af19e1b;Secundario
+c4c2fb797;3de59bf69;Secundario
+eae25ede2;b353e6753;Anti-Héroe
+7bb6058f6;514a2ddae;Héroe
+091206852;ab7f3ad56;Secundario
+6357c9766;e35ab82f4;Secundario
+831bac331;6d29580d8;De Reparto
+26185c3cb;fac593403;Secundario
+df53f84d1;4d0c916a0;Extra

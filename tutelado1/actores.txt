@@ -1,0 +1,100 @@
+bc8069cbc;Marina;García;Ramos;Jamaicano;5/7/1961;Berlín;1995;2021
+4e58acfaa;Ibrahim;Rodríguez;;Caboverdiano;6/2/1981;Estocolmo;2008;
+c80aa819e;Hassan;González;Carrasco;Español;8/4/1983;Nueva York;2002;2019
+d268ce7c7;Manuel;Fernández;Gallardo;Estadounidense;;Nueva York;2004;2022
+5dc0cfef1;Muhammad;López;Hidalgo;;10/3/1983;Madrid;2001;2016
+b9c907a56;John;Martínez;;Tanzano;12/7/1992;Nueva York;2010;
+c96af5b9c;Linda;Sánchez;Torres;Estadounidense;23/12/1993;Los Ángeles ;2000;2020
+76a4cfebe;Martin;Pérez;Molina;;8/6/1971;Estocolmo;1998;2023
+f469c4b41;Joao;Gómez;Martínez;Portugués;9/5/1965;Nueva York;1985;2015
+37b5e82f0;Ming;Olswen;;Estadounidense;;Roma;2006;
+7055b62f1;Nushi;Jimenez;Cano;Francés;15/9/1971;Pekín;1998;2018
+ab3d34ded;Peter;Hernández;Peña;Sudafricano;5/2/1983;Nueva York;2012;2019
+e9332f97a;Joao;Ruiz;Moya;Británico;21/12/1982;Los Ángeles;2002;2022
+71ff8a2da;William;Díaz;Fernández;Francés;14/4/1967;Madrid;1990;2016
+09721c36b;Anna;Moreno;;Trinitense;6/6/1958;Nueva York;1983;
+5ce7eb72e;Ghulam;Muñoz;Gil;Francés;26/10/1967;Los Ángeles;1993;
+8acc9c530;Thomas;Álvarez;Montero;;18/8/1966;A Coruña;1986;2023
+4fb212559;Olga;Romero;Ruiz;Tailandés;16/7/1972;Nueva York;2009;2015
+d500c5505;Sunita;Gutiérrez;Nuñez;;;Los Ángeles;1981;2021
+56abac2ee;Mohamed;Alonso;Díaz;;19/12/1970;Nueva York;1999;2018
+b49be4a06;Wei;Navarro;Lorenzo;Español;14/5/1977;Tokio;2001;2019
+4394749b0;Mark;Torres;;;13/7/1970;Los Ángeles;1996;2022
+85d2b4c95;Martha;Domínguez;Gutiérrez;Francés;7/8/1960;;1987;2016
+3626cf2cb;Carlos;Ramos;;;;Dublín;2011;
+7931cfff4;Ali;Vázquez;Soler;Español;18/12/1960;A Coruña;1989;
+72d317533;Ibrahim;Ramírez;;Boliviano;25/12/1964;Roma;;2023
+1903a2c9b;Richard;Gil;Prieto;Sudafricano;1/2/1963;Moscú;2007;2015
+47639a093;Irina;Serrano;Soto;Francés;18/1/1979;Dublín;1984;2021
+1ae7e6b0b;Manuel;Morales;Ramírez;Filipino;1/11/1965;Nueva York;1992;2018
+51d5cc09c;Joseph;Molina;Jimenez;Francés;28/12/1962;Madrid;2003;2019
+8ad6c3c53;Martha;Blanco;Castro;Francés;20/5/1970;París;1997;2022
+9eb47519a;María;Suárez;Marin;Español;17/4/1985;Madrid;;2016
+212f35f21;Lin;Castro;Alonso;Beliceño;7/11/1981;Nueva York;1995;2017
+c62aa13cf;Fatima;Ortega;Lozano;Keniano;11/1/1984;Nueva York;2008;2020
+3ff74ec5c;Elena;Delgado;Benitez;Francés;20/11/2001;Madrid;1982;2023
+dd59f4a45;Mohammad;Ortiz;Cortés;Zambiano;20/4/1989;Nueva York;2004;2015
+2629c131a;Mark;Marin;Márquez;Sudafricano;10/4/1996;Los Ángeles;;
+26851c948;Yong;Rubio;Vidal;Seychellense;13/2/1978;Madrid;2010;2018
+d3d8e7e55;Francisco;Nuñez;Suárez;Estadounidense;4/10/1973;Copenhague;2000;2019
+2941800ae;Svetlana;Medina;Rodríguez;Camerunés;7/6/2003;Oslo;1988;2022
+8cdf64af8;Ram;Sanz;Flores;Alemán;7/1/1970;Copenhague;1985;2016
+5436d729a;Daniel;Castillo;Romero;Turco;11/2/1976;Helsinki;2006;2017
+fed9b5065;Patricia;Iglesias;Calvo;Sudanes;6/9/1974;Nueva York;1998;2020
+a780bae58;Muhammad;Cortés;Diez;Estadounidense;1/6/1995;Berlín;2012;2023
+05f541e31;Sandra;Garrido;Guerrero;Estadounidense;26/7/1979;;2002;2015
+18be23050;Anita;Santos;Morales;Indonesio;1/12/1955;Los Ángeles ;1990;2021
+6117bd8e2;Yu;Guerrero;Fuentes;Kiribatiano;8/7/1964;Los Ángeles;1983;2018
+144bd537d;Roberto;Lozano;Santana;Español;17/10/1967;Madrid;1993;2019
+f2e20b0cb;Sri;Cano;Rubio;Fiyiano;5/8/1957;Los Ángeles ;1986;2022
+d6e0090bc;William;Cruz;Arias;Ghanés;1/11/1973;Los Ángeles;2009;2016
+759bc827a;Li;Méndez;Roman;Chadiano;5/3/1961;Madrid;1981;2017
+c8530895e;Angela;Flores;Parra;Español;24/2/1964;Nueva York;1999;2020
+f2d1869ff;Joseph;Prieto;Caballero;Español;19/4/1981;Nueva York;2001;2023
+428c59fce;Jorge;Herrera;Mora;Singapurense;14/12/1969;Nueva York;1996;2015
+db47d6efb;Tatyana;Peña;García;Guyanés;1/6/1956;Los Ángeles ;1987;2021
+72c8d8b92;Ahmad;León;Vicente;Tunisino;;Nueva York;2011;2018
+3739ab057;Elena;Márquez;Navarro;Beninés;19/10/1998;Oslo;1989;2019
+2219e9fb0;William;Gard;;Tuvaluano;27/1/1967;Nueva York;1994;2022
+7099f9541;Robert;Gallego;Pérez;Malí;9/9/1987;Nueva York;2007;2016
+485853224;Ram;Calvo;Domínguez;Estadounidense;;Los Ángeles ;1984;2017
+aef6364c0;Sunita;Dhalu;;Ugandés;;Madrid;1992;2020
+df1e0508d;Carlos;Campos;Pascual;Argelino;8/9/1972;Los Ángeles;2003;
+2c95b74b3;Mario;Reyes;Ibáñez;Etíope;14/9/1986;Los Ángeles;;
+6c1fb8449;Ming;Vega;Méndez;Marroquí;1/3/1988;Madrid;;
+d9b587d71;Ying;Fuentes;Iglesias;Malgache;1/1/1962;;;2018
+6b010bfe0;David;Carrasco;Medina;Marfileño;;Londres;2008;2019
+b88111e8f;Li;Diez;;Samoano;14/6/1968;Los Ángeles;1982;2022
+9179a29a5;Irina;Aguilar;Garrido;Español;28/5/1983;Madrid;2004;2016
+a48377aac;Nita;Caballero;;Zimbabuense;;Londres;1991;2017
+4a81ac7c7;Peng;Nieto;Martín;Paraguayo;;Los Ángeles ;2010;2020
+01db85127;Siti;Santana;Aguilar;Ruandés;14/11/1961;Madrid;2000;2023
+2a3a87c6a;David;Vargas;Nieto;Palauano;2/2/1991;Madrid;;2015
+55f97d163;Anita;Rivera;;Alemán;10/12/1968;;1985;2021
+89ccc2e91;Richard;Giménez;Álvarez;Surinamés;6/3/1967;Nueva York;2006;2018
+2437b18bd;Abdul;Herrero;;Marshalés;21/5/1974;Los Ángeles;1998;2019
+20fbd5793;Yong;Hidalgo;Campos;Togolés;20/9/1969;Los Ángeles;2012;2022
+c791eaa55;Charles;Montero;Bravo;Estadounidense;23/3/1969;Nueva York;2002;2016
+0523ed831;Paul;Lorenzo;Ortega;Mauriciano;;;1990;2017
+601a154f8;Patrick;Santiago;Blanco;Estadounidense;23/12/1962;Madrid;1983;2020
+8f592fd9f;Sandra;Benitez;Santos;Británico;17/8/1968;Los Ángeles;1993;2023
+4596a8a72;Mohammed;Duran;Vargas;;;Nueva York;1986;
+47eb33dc3;Martin;Ibáñez;Rojas;Guineano;18/6/1998;Sídney;;
+7bceba624;Mohamed;Arias;Carmona;Estadounidense;;Helsinki;1981;2018
+fa94b6cea;Svetlana;Mora;Hernández;Estadounidense;;Edimburgo;1999;2019
+18da33c96;Jose;Ferrer;Ortiz;Nauruano;11/6/1960;Tokio;2001;2022
+ee94bdf07;Luis;Carmona;Castillo;Nigeriano;;Los Ángeles;1996;2016
+2d04bd39b;Víctor;Vicente;Giménez;Español;20/12/1979;París;;2017
+7f4b92d11;Wei;Rojas;Cabrera;Español;1/9/1964;Madrid;2011;2020
+3efe71e31;Olga;Soto;Gómez;;;Nueva York;1989;2023
+e73983544;Patrick;Crespo;Reyes;Británico;9/2/1979;;1994;2015
+09721cab7;Mary;Roman;Cruz;Malasio;;;2007;2021
+10af19e1b;Ying;Pastor;Vázquez;;;Los Ángeles;1984;2018
+3de59bf69;Li;Velasco;Gallego;Español;20/3/1981;Nueva York;;2019
+b353e6753;Richard;Parra;Serrano;Estadounidense;;Los Ángeles;2003;2022
+514a2ddae;Mohamed;Jule;;Senegalés;;Madrid;1997;2016
+ab7f3ad56;Hui;Shang;;;22/11/1975;;2012;
+e35ab82f4;Luis;Bravo;Herrero;Tongano;10/11/1969;Pekín;;2020
+6d29580d8;Patricia;Riveira;Veiga;;;A Coruña;2001;2023
+fac593403;Peter;Gallardo;Herrera;Uruguayo;24/7/1973;A Coruña;1992;2015
+4d0c916a0;Fran;Soler;Pastor;Egipcio;10/3/1963;Nueva York;2008;2023
